@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://pokropdf.github.io/Sitemap.txt
+Sitemap: https://pokropdf.github.io/sitemap.xml
